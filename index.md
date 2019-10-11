@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[스프링 배치](https://juhyun-oh.github.io/Spring-Batch/BatchAndSpring)
+[스프링 배치](https://juhyun-oh.github.io/Spring-Batch/SpringBatchIndex)
 
 You can use the [editor on GitHub](https://github.com/juhyun-oh/juhyun-oh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
